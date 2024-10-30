@@ -4,7 +4,7 @@ public class TipagemForte {
 
     public static void main(String[] args) {
 
-        String texto = "meu texto";
+        String text = "meu texto";
 
         //texto = 1000; //NOK
 

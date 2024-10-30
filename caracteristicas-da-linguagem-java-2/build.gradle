@@ -2,6 +2,14 @@ plugins {
     id 'java'
 }
 
+wrapper {
+    gradleVersion = '7.4'
+}
+
+wrapper {
+    gradleVersion = '7.4'
+}
+
 group 'one.digitalinnovation'
 version '1.0-SNAPSHOT'
 
